@@ -61,18 +61,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/Legend%20of%20SkyrimVR%201080%20Logo.webp",
       "readme": "https://ex0-tekk.github.io/Legend-of-SkyrimVR/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/Legend%20of%20SkyrimVR%201.0.7.wabbajack_3836ac26-56d0-4f4e-9784-9a17cbd48012",
       "machineURL": "LoSVR",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "J1pCZ1YrI4g=",
+      "Size": 3808110303,
+      "NumberOfArchives": 611,
+      "SizeOfArchives": 39862948011,
+      "NumberOfInstalledFiles": 135307,
+      "SizeOfInstalledFiles": 54629757851
     },
     "version": "1.0"
   }
