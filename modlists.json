@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Diabolist VR",
-    "description": "Diabolist VR pays homage to the hack n slash loot hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, 67 additional dungeons, hundreds of unique monsters, complete with a generous 3 tier loot system! Most creatures are randomly generated and respawn often for variation, Welcome to DVR... More Monsters, More Loot!",
+    "description": "Diabolist VR is a theme focused modlist that pays homage to the popular ARPG of the late 90s by adding 7 Diablo inspired mods and much more!",
     "author": "ex0-tekk",
     "maintainers": [
       "github/ex0-tekk"
@@ -11,12 +11,12 @@
     "official": false,
     "tags": [
       "Official",
+      "VR",
+      "Diablo Theme",
       "High Fantasy",
       "Performance",
-      "Theme Based",
       "Monsters",
-      "Loot",
-      "VR"
+      "Loot"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -44,7 +44,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Legend of SkyrimVR",
-    "description": "Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more.",
+    "description": "Legend of SkyrimVR is theme focused mod list that pays homage to the popular Zelda series by adding 13 Zelda inspired mods and much more!",
     "author": "ex0-tekk",
     "maintainers": [
       "github/ex0-tekk"
@@ -52,10 +52,10 @@
     "game": "skyrimvr",
     "tags": [
       "Unofficial",
+      "VR",
+      "Zelda Theme",
       "High Fantasy",
-      "Performance",
-      "Theme Based",
-      "VR"
+      "Performance"
     ],
     "nsfw": false,
     "image_contains_title": false,
