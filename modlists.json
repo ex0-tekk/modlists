@@ -62,7 +62,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/LoSVR%20Artistic%20Banner%201080p.webp",
+      "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/LoSVR%20Dark%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Legend-of-SkyrimVR/",
       "download": "https://authored-files.wabbajack.org/Legend%20of%20SkyrimVR%201.0.7.wabbajack_3836ac26-56d0-4f4e-9784-9a17cbd48012",
       "machineURL": "LoSVR",
