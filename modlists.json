@@ -25,20 +25,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/DVR%20Flame%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Diabolist-VR/",
-      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_cd7c81fd-14c4-4a03-8f6d-3eff979fad7b",
+      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_b12276a4-f0aa-4204-b6df-8078c1b0e765",
       "machineURL": "diabolist_vr",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "vxrUZGudLQ4=",
-      "Size": 4172958258,
-      "NumberOfArchives": 682,
-      "SizeOfArchives": 47465660004,
-      "NumberOfInstalledFiles": 133076,
-      "SizeOfInstalledFiles": 68928843848
+      "Hash": "yTg09hqV7V4=",
+      "Size": 4322772047,
+      "NumberOfArchives": 712,
+      "SizeOfArchives": 51745111838,
+      "NumberOfInstalledFiles": 139702,
+      "SizeOfInstalledFiles": 73190863560
     },
-    "version": "2.9.9"
+    "version": "3.0",
+    "RepositoryName": ""
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -49,6 +50,7 @@
       "github/ex0-tekk"
     ],
     "game": "skyrimvr",
+    "official": false,
     "tags": [
       "Unofficial",
       "VR",
@@ -58,6 +60,7 @@
       "PLANCK"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
@@ -77,6 +80,7 @@
       "NumberOfInstalledFiles": 135307,
       "SizeOfInstalledFiles": 54629757851
     },
-    "version": "1.0.7"
+    "version": "1.0.7",
+    "RepositoryName": ""
   }
 ]
