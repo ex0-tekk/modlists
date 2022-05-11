@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Diabolist VR",
-    "description": "Diabolist VR is a theme focused modlist that pays homage to the popular Diablo game by adding 10 series inspired mods and much more!",
+    "description": "Diabolist VR is a theme focused performance friendly modlist that pays homage to the popular DIABLO game by adding 10 series inspired mods and much more!",
     "author": "ex0-tekk",
     "maintainers": [
       "github/ex0-tekk"
@@ -14,7 +14,8 @@
       "VR",
       "Diablo Theme",
       "High Fantasy",
-      "Performance"
+      "Performance",
+      "PLANCK"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -22,8 +23,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/DVR%20Logo%20Final%20New%2016-9%201080p.webp",
-      "readme": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/Readme.md",
+      "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/DVR%20Flame%20Banner%20Header%201080.webp",
+      "readme": "https://ex0-tekk.github.io/Diabolist-VR/",
       "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_cd7c81fd-14c4-4a03-8f6d-3eff979fad7b",
       "machineURL": "diabolist_vr",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
@@ -42,7 +43,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Legend of SkyrimVR",
-    "description": "Legend of SkyrimVR is a theme focused modlist that pays homage to the popular Zelda game by adding 13 series inspired mods and much more!",
+    "description": "Legend of SkyrimVR is a theme focused performance friendly modlist that pays homage to the popular ZELDA game by adding 13 series inspired mods and much more!",
     "author": "ex0-tekk",
     "maintainers": [
       "github/ex0-tekk"
@@ -53,14 +54,15 @@
       "VR",
       "Zelda Theme",
       "High Fantasy",
-      "Performance"
+      "Performance",
+      "PLANCK"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/Legend%20of%20SkyrimVR%201080%20Logo.webp",
+      "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/LoSVR%20Artistic%20Banner%201080p.webp",
       "readme": "https://ex0-tekk.github.io/Legend-of-SkyrimVR/",
       "download": "https://authored-files.wabbajack.org/Legend%20of%20SkyrimVR%201.0.7.wabbajack_3836ac26-56d0-4f4e-9784-9a17cbd48012",
       "machineURL": "LoSVR",
