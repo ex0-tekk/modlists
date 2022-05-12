@@ -14,7 +14,8 @@
       "Diablo Theme",
       "High Fantasy",
       "Performance",
-      "PLANCK"
+      "PLANCK",
+      "VR"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -37,7 +38,7 @@
       "NumberOfInstalledFiles": 139012,
       "SizeOfInstalledFiles": 72082642024
     },
-    "version": "3.0",
+    "version": "3.0.0",
     "RepositoryName": ""
   },
   {
@@ -55,7 +56,8 @@
       "Zelda Theme",
       "High Fantasy",
       "Performance",
-      "PLANCK"
+      "PLANCK",
+      "VR"
     ],
     "nsfw": false,
     "utility_list": false,
