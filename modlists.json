@@ -25,18 +25,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/Diabolist%20VR%20Reimagined%20Banner%201080p.webp",
       "readme": "https://ex0-tekk.github.io/Diabolist-VR/",
-      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_65ab0ba4-7b64-4071-838b-2e210fe9ad4c",
+      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_83b1ec82-ec02-4059-9c12-4d42e151e2c6",
       "machineURL": "diabolist_vr",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "DlC5odEgYNc=",
-      "Size": 3491508670,
-      "NumberOfArchives": 681,
-      "SizeOfArchives": 49468952431,
-      "NumberOfInstalledFiles": 118340,
-      "SizeOfInstalledFiles": 53026227943
+      "Hash": "sMrszumrIWw=",
+      "Size": 5960752687,
+      "NumberOfArchives": 679,
+      "SizeOfArchives": 46961993389,
+      "NumberOfInstalledFiles": 118336,
+      "SizeOfInstalledFiles": 53026227616
     },
     "version": "3.0",
     "RepositoryName": ""
