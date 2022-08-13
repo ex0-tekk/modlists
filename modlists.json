@@ -8,7 +8,7 @@
       "github/ex0-tekk"
     ],
     "game": "skyrimvr",
-    "official": false,
+    "official": true,
     "tags": [
       "Official",
       "VR",
@@ -19,7 +19,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
@@ -61,7 +61,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
