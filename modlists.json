@@ -25,18 +25,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/DVR%203.5%20Flame%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Diabolist-VR/",
-      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_ffde771a-6cab-48ef-975c-e711670e574d",
+      "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_e3ec4352-310b-4a52-a25f-3bd7c90e4d1b",
       "machineURL": "diabolist_vr",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "CHu0ntwVccs=",
-      "Size": 2365804052,
+      "Hash": "Ah/o2vmA8hs=",
+      "Size": 2365801707,
       "NumberOfArchives": 800,
       "SizeOfArchives": 53432664041,
-      "NumberOfInstalledFiles": 150227,
-      "SizeOfInstalledFiles": 83351639695
+      "NumberOfInstalledFiles": 150218,
+      "SizeOfInstalledFiles": 83351639188
     },
     "version": "3.5",
     "RepositoryName": ""
