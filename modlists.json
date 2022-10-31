@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Diabolist VR",
     "description": "Diabolist VR is a theme focused mod list that pays homage to the popular DIABLO game by adding 10 series inspired mods and much more!",
     "author": "ex0-tekk",
@@ -22,7 +21,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Diabolist-VR/main/DVR%203.5%20Flame%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Diabolist-VR/",
       "download": "https://authored-files.wabbajack.org/Diabolist VR.wabbajack_f05898a2-ec14-4664-8912-24cc61aa2780",
@@ -30,7 +28,6 @@
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "AJ8mqf7eeME=",
       "Size": 2366303395,
       "NumberOfArchives": 802,
@@ -39,10 +36,11 @@
       "SizeOfInstalledFiles": 83355119931
     },
     "version": "3.5",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Legend of SkyrimVR",
     "description": "Legend of SkyrimVR is a theme focused mod list that pays homage to the popular ZELDA game by adding 13 series inspired mods and much more!",
     "author": "ex0-tekk",
@@ -64,23 +62,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/LoSVR%20Dark%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Legend-of-SkyrimVR/",
-      "download": "https://authored-files.wabbajack.org/Legend of SkyrimVR.wabbajack_b642a5a8-d4f7-4be7-9a59-4cff77e179bb",
+      "download": "https://authored-files.wabbajack.org/Legend of SkyrimVR.wabbajack_b91df9f1-163c-474f-9316-1a61472b4bb0",
       "machineURL": "LoSVR",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "7CsYFn2cuDU=",
-      "Size": 3807951328,
-      "NumberOfArchives": 616,
-      "SizeOfArchives": 39886351995,
-      "NumberOfInstalledFiles": 135671,
-      "SizeOfInstalledFiles": 54707684669
+      "Hash": "MBFznBkgdt0=",
+      "Size": 7223337676,
+      "NumberOfArchives": 719,
+      "SizeOfArchives": 44225649217,
+      "NumberOfInstalledFiles": 153604,
+      "SizeOfInstalledFiles": 78238434485
     },
-    "version": "1.0.8",
-    "RepositoryName": ""
+    "version": "2.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-31T09:43:44.9737208Z",
+    "repositoryName": ""
   }
 ]
