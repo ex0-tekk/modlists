@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ex0-tekk/Legend-of-SkyrimVR/main/LoSVR%20Dark%20Banner%20Header%201080.webp",
       "readme": "https://ex0-tekk.github.io/Legend-of-SkyrimVR/",
-      "download": "https://authored-files.wabbajack.org/Legend of SkyrimVR.wabbajack_5350872d-4c2a-4141-8f83-e9d69abca4fc",
+      "download": "https://authored-files.wabbajack.org/Legend of SkyrimVR.wabbajack_c3ddea0e-57f6-4adc-8c99-99bd27e34ef3",
       "machineURL": "LoSVR",
       "discordURL": "https://discord.com/invite/HuqU54gPcv"
     },
     "download_metadata": {
-      "Hash": "gte7exVy0io=",
-      "Size": 5084967896,
+      "Hash": "JLuhK3hKt04=",
+      "Size": 5084966408,
       "NumberOfArchives": 757,
-      "SizeOfArchives": 45489379905,
-      "NumberOfInstalledFiles": 160092,
-      "SizeOfInstalledFiles": 81791023531
+      "SizeOfArchives": 45489538365,
+      "NumberOfInstalledFiles": 160093,
+      "SizeOfInstalledFiles": 81808313044
     },
     "version": "3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-02T18:23:12.4760935Z",
+    "dateUpdated": "2022-12-05T19:20:53.3846853Z",
     "repositoryName": ""
   }
 ]
